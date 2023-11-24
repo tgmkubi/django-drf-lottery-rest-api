@@ -1,0 +1,8 @@
+django
+djangorestframework
+phonenumber_field
+django-lottery
+django-competitor
+djangorestframework-simplejwt
+django-cors-headers
+django-extensions
