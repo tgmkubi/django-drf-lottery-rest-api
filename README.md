@@ -1,5 +1,6 @@
-
-![Logo](https://i.pinimg.com/564x/48/52/55/48525562bc5db00492a168f288751093.jpg)
+<p align="center">
+  <img src="https://i.pinimg.com/564x/48/52/55/48525562bc5db00492a168f288751093.jpg" alt="Logo">
+</p>
 
 # DJANGO DRF LOTTERY REST API
 
