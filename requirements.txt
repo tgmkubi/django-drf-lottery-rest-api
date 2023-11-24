@@ -1,8 +1,11 @@
 django
 djangorestframework
+markdown
+django-filter
 phonenumber_field
-django-lottery
-django-competitor
 djangorestframework-simplejwt
 django-cors-headers
 django-extensions
+
+django-lottery
+django-competitor
