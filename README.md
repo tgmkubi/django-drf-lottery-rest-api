@@ -2,8 +2,9 @@
   <img src="https://i.pinimg.com/564x/48/52/55/48525562bc5db00492a168f288751093.jpg" alt="Logo">
 </p>
 
+<p align="center">
 # DJANGO DRF LOTTERY REST API
-
+</p>
 
 
 In this project, I developed a Lottery Django REST framework (DRF) API. With this API, the winner can be determined among the users who participated in the draw. Competitors can join the lottery by providing their phone numbers and email addresses. To complete the participation process, competitors must enter a 6-digit verification code sent to their phone numbers. Amazon Simple Notification Service (SNS) is used for SMS verification. Lastly, the superadmin user selects a random person from those who have confirmed their phone numbers as the winner of the lottery.
